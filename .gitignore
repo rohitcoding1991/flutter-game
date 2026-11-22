@@ -43,5 +43,5 @@ branch_structure.json
 .gitignore
 
 !.env.example
-config.bat
 node_modules
+config.bat
